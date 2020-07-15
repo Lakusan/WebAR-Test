@@ -8,34 +8,34 @@ window.onload = () => {
 function staticLoadPlaces() {
     return [
       
-        // {
-        //     name: 'flower-2',
-        //     location: {
-        //         lat: 49.22420930,
-        //         lng: 8.78599841,
-        //     },
-        //     rotation: '0 0 0',
-        //     scale: '1.5 1.5 1.5',
-        // },
+        {
+            name: 'flower-1',
+            location: {
+                lat: 49.223458,
+                lng: 8.784574,
+            },
+            rotation: '0 0 0',
+            scale: '2 2 2',
+        },
 
-        // {
-        //     name: 'flower-1',
-        //     location: {
-        //         lat: 49.22416813,
-        //         lng: 8.78603596,
-        //     },
-        //     rotation: '0 0 0',
-        //     scale: '1.5 1.5 1.5',
-        // },
+        {
+            name: 'flower-2',
+            location: {
+                lat: 49.221634,
+                lng: 8.785294,
+            },
+            rotation: '0 0 0',
+            scale: '2 2 2',
+        },
 
         {
             name: 'dwyl-info-sign-1', 
             location: {
-                lat: 49.22409894,
-                lng: 8.78608156,
+                lat: 49.222559,
+                lng: 8.785707,
             },   
             rotation: '0 180 0',
-            scale: '0.5 0.5 0.5',
+            scale: '2 2 2',
         },
     ];
 }
