@@ -19,10 +19,20 @@ function staticLoadPlaces() {
         },
 
         {
+            name: 'flower-1',
+            location: {
+                lat: 49.22416813,
+                lng: 8.78603596,
+            },
+            rotation: '0 0 0',
+            scale: '1.5 1.5 1.5',
+        },
+
+        {
             name: 'dwyl-info-sign-1', 
             location: {
-                lat: 52.371295,
-                lng: 4.878753,
+                lat: 49.22409894,
+                lng: 8.78608156,
             },   
             rotation: '0 180 0',
             scale: '0.5 0.5 0.5',
