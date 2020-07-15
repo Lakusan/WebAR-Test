@@ -12,7 +12,7 @@
   <body>
     <a-scene
       gps-camera-debug
-      vr-mode-ui="enabled: false"
+      vr-mode-ui="enabled: true"
       embedded
       arjs="sourceType: webcam; debugUIEnabled: true;"
     >
@@ -20,7 +20,7 @@
       <a-text
         value="TEST"
         look-at="[gps-camera]"
-        scale="1 1 1"
+        scale="10 10 10"
         gps-entity-place="latitude: 49.22420930569596; longitude: 8.78599841850551;"
       ></a-text>
       <a-box material="color: yellow" gps-entity-place="latitude: 49.22420930569596; longitude: 8.78599841850551"/>
