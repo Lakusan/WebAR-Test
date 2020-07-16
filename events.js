@@ -1,8 +1,3 @@
-document.querySelector("button").addEventListener("click", (e)=> {
-    // do stuff here.
-  })
-
-
     window.onload = function () {
       document
         .querySelector(".say-hi-button")
