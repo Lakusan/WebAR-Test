@@ -37,7 +37,7 @@ function staticLoadPlaces() {
     //         rotation: '0 180 0',
     //         scale: '2 2 2',
     //     },
-    // ];
+    ];
 }
 
 
